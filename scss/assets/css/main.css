@@ -1,0 +1,52 @@
+.mean {
+  margin-left: 20%;
+}
+
+.mean p {
+  width: 800px;
+}
+
+.mean button {
+  background-color: whitesmoke;
+  border: none;
+  color: black;
+  border-radius: 50px;
+  padding: 7px;
+  width: 5%;
+}
+
+.mean a {
+  background-color: whitesmoke;
+  border: none;
+  color: black;
+  border-radius: 50px;
+  padding: 7px;
+  width: 5%;
+}
+
+.mean input {
+  background-color: whitesmoke;
+  border: none;
+  color: black;
+  border-radius: 50px;
+  padding: 7px;
+  width: 6%;
+}
+
+.mean .populyar .container .row {
+  padding: 120px 0;
+}
+
+.mean .populyar .container .row .famous .info h2 {
+  font-size: 25px;
+}
+
+.mean .populyar .container .row .famous .info ul li a {
+  text-decoration: none;
+  font-size: 25px;
+}
+
+.mean .taksit .row .card a {
+  text-decoration: none;
+}
+/*# sourceMappingURL=main.css.map */
